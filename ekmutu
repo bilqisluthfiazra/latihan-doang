@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .poto{
+            width: 100%;
+         
+        }
+    </style>
+</head>
+<body> 
+        <img class="poto" src="https://www.smkmutucikampek.sch.id/wp-content/uploads/2022/02/smkmutucikampek_273768766_282889330614761_8289804397996378876_n.jpg">
+       
+        <h1 style="color: black; text-align: center;"> EKSUL DI SMK MUHAMMADIYAH 1 VIKA PE</h1> 
+        <li> HW </li>
+        <li>Bola voly </li>
+        <li>Bola basket </li>
+        <li>Tapak suci</li>
+        <li>Pramuka </li>
+        <li>Paskibra</li>
+        
+       </ul>
+</body>
+</html>
